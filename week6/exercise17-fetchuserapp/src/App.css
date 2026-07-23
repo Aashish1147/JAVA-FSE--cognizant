@@ -1,0 +1,10 @@
+.container{
+    margin:80px;
+    font-family:Arial;
+}
+
+img{
+    width:180px;
+    height:180px;
+    border-radius:8px;
+}
